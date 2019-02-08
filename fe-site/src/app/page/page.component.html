@@ -1,0 +1,36 @@
+<div class="wrapper">
+<div *ngIf="buttons != []">
+      <button class="btn-primary" type="submit" (click)="calculateWeight(); checkSum().subscribe()">Рассчитать по красоте</button>
+  <div *ngIf="result != undefined">{{"You can do this with a "+result+" pounds, where " +right+" on right side and " + left + " on left side" }}</div>
+  <div *ngIf="rest != undefined">{{"The rest are " +buttons}}</div>
+</div>
+Тут вводите просто вес одного блина<br>
+<input class="input" placeholder="Here" required=""
+       [(ngModel)]="weight"/>
+<button type="button" class="btn btn-primary" (click)="addButtonToMid(weight); checkSum().subscribe()" >Добавить в набор</button><br><br>
+
+<table>
+      <th *ngFor=" let button of left">
+        <button type="button"(click)="weight = button;addButtonToMidFromLeft(button); checkSum().subscribe()">{{button}}</button>
+      </th>
+  <th>
+    |||--------------------------------------------------------------|||
+  </th>
+  <th *ngFor=" let button of right">
+    <button type="button"(click)="weight = button;addButtonToMidFromRight(button); checkSum().subscribe()">{{button}}</button>
+  </th>
+</table>
+<div *ngIf="leftSum==rightSum && leftSum > 0&&rightSum>0">DOOOOOOOOOOONE</div>
+  <div>
+    <table style="max-width: 100%; white-space:nowrap;">
+
+      <th  *ngFor=" let button of buttons"  >
+      <button class="span"(contextmenu)="weight = button;addButtonToRight(button); checkSum().subscribe()"style="" (click)="weight = button;addButtonToLeft(button);checkSum().subscribe()">{{button}}</button>
+      </th>
+    </table>
+  </div>
+{{rightSum+" "}}{{leftSum}}{{buttons}}
+</div>
+
+
+

@@ -1,0 +1,1266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d9c99b0a-6100-4068-ad1b-9ed46abfc9b9" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/fapi/target/" />
+    <ignored path="$PROJECT_DIR$/backend/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/SD_3_SakovPavel$FapiApplication.ic" NAME="FapiApplication Coverage Results" MODIFIED="1549488399308" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-112613284">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="61" />
+          <entry key="project.open.time.1" value="9" />
+          <entry key="project.open.time.10" value="6" />
+          <entry key="project.open.time.11" value="15" />
+          <entry key="project.open.time.12" value="5" />
+          <entry key="project.open.time.13" value="7" />
+          <entry key="project.open.time.14" value="7" />
+          <entry key="project.open.time.15" value="1" />
+          <entry key="project.open.time.16" value="3" />
+          <entry key="project.open.time.17" value="1" />
+          <entry key="project.open.time.18" value="2" />
+          <entry key="project.open.time.19" value="3" />
+          <entry key="project.open.time.2" value="6" />
+          <entry key="project.open.time.27" value="1" />
+          <entry key="project.open.time.34" value="1" />
+          <entry key="project.open.time.35" value="1" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="71" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.js.language.service.starts">
+        <counts>
+          <entry key="Angular2LanguageService" value="48" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="1-SNAPSHOT" value="1" />
+          <entry key="class" value="5" />
+          <entry key="cmd" value="2" />
+          <entry key="css" value="40" />
+          <entry key="gitignore" value="2" />
+          <entry key="html" value="128" />
+          <entry key="iml" value="4" />
+          <entry key="java" value="696" />
+          <entry key="json" value="24" />
+          <entry key="mvnw" value="2" />
+          <entry key="png" value="5" />
+          <entry key="pom" value="1" />
+          <entry key="properties" value="18" />
+          <entry key="sql" value="2" />
+          <entry key="teacher" value="4" />
+          <entry key="ts" value="284" />
+          <entry key="xml" value="11" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="5" />
+          <entry key="CSS" value="40" />
+          <entry key="HTML" value="128" />
+          <entry key="IDEA_MODULE" value="4" />
+          <entry key="Image" value="5" />
+          <entry key="JAVA" value="696" />
+          <entry key="JSON" value="19" />
+          <entry key="PLAIN_TEXT" value="6" />
+          <entry key="Properties" value="18" />
+          <entry key="SQL" value="2" />
+          <entry key="TypeScript" value="288" />
+          <entry key="UML" value="1" />
+          <entry key="XML" value="12" />
+          <entry key="tsconfig" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="css" value="121" />
+          <entry key="dummy" value="14" />
+          <entry key="html" value="4312" />
+          <entry key="java" value="16124" />
+          <entry key="json" value="99" />
+          <entry key="properties" value="10" />
+          <entry key="scss" value="4" />
+          <entry key="sql" value="70" />
+          <entry key="teacher" value="25" />
+          <entry key="ts" value="9565" />
+          <entry key="xml" value="68" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="CSS" value="121" />
+          <entry key="HTML" value="4312" />
+          <entry key="JAVA" value="16124" />
+          <entry key="JSON" value="99" />
+          <entry key="PLAIN_TEXT" value="14" />
+          <entry key="Properties" value="10" />
+          <entry key="SCSS" value="4" />
+          <entry key="SQL" value="70" />
+          <entry key="TypeScript" value="9590" />
+          <entry key="XML" value="68" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="60934587">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="4" />
+          <entry key="project.open.time.13" value="2" />
+          <entry key="project.open.time.25" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="css" value="8" />
+          <entry key="html" value="5" />
+          <entry key="java" value="4" />
+          <entry key="md" value="1" />
+          <entry key="properties" value="1" />
+          <entry key="rnc" value="1" />
+          <entry key="ts" value="13" />
+          <entry key="xml" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CSS" value="8" />
+          <entry key="HTML" value="5" />
+          <entry key="JAVA" value="4" />
+          <entry key="Markdown" value="1" />
+          <entry key="Properties" value="1" />
+          <entry key="RNG Compact" value="1" />
+          <entry key="TypeScript" value="13" />
+          <entry key="XML" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.js.language.service.starts">
+        <counts>
+          <entry key="Angular2LanguageService" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="css" value="78" />
+          <entry key="html" value="1262" />
+          <entry key="java" value="1092" />
+          <entry key="ts" value="2238" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="CSS" value="78" />
+          <entry key="HTML" value="1260" />
+          <entry key="JAVA" value="1092" />
+          <entry key="JavaScript" value="2" />
+          <entry key="TypeScript" value="2238" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/fe-site/src/app/page/page.component.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="40">
+              <caret line="2" column="68" selection-start-line="2" selection-start-column="68" selection-end-line="2" selection-end-column="68" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/fe-site/src/app/page/page.component.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1080">
+              <caret line="54" selection-start-line="54" selection-end-line="54" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/fe-site/src/app/page/page.component.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-20">
+              <caret line="67" column="1" selection-start-line="67" selection-start-column="1" selection-end-line="67" selection-end-column="1" />
+              <folding>
+                <element signature="e#0#108#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/fapi/pom.xml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="18" column="44" selection-start-line="18" selection-start-column="44" selection-end-line="18" selection-end-column="44" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/fe-site/src/app/app.module.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="20">
+              <caret line="13" selection-start-line="13" selection-end-line="13" />
+              <folding>
+                <element signature="e#0#58#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/fe-site/src/app/services/http.service.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="500">
+              <caret line="29" column="10" selection-start-line="29" selection-start-column="10" selection-end-line="29" selection-end-column="10" />
+              <folding>
+                <element signature="e#0#41#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/fe-site/src/app/services/filter.pipe.ts">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/fapi/src/main/java/by/taining/nc/sd3/Fapi/controller/Task1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-567">
+              <caret line="135" column="25" selection-start-line="135" selection-start-column="25" selection-end-line="135" selection-end-column="25" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/Arrays.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2040">
+              <caret line="143" selection-start-line="143" selection-end-line="143" />
+              <folding>
+                <element signature="e#5098#5099#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>users</find>
+      <find>caret</find>
+      <find>static</find>
+      <find>notf</find>
+      <find>student_</find>
+      <find>student_id</find>
+      <find>subject_id</find>
+      <find>this</find>
+      <find>any</find>
+    </findStrings>
+    <dirStrings>
+      <dir>C:\Users\qwerty\SD-3_SakovPavel\fe-site\src</dir>
+      <dir>C:\Users\qwerty\SD-3_SakovPavel\fe-site\node_modules\bootstrap</dir>
+      <dir>C:\Users\qwerty\SD-3_SakovPavel\fapi\src</dir>
+      <dir>C:\Users\qwerty\SD-3_SakovPavel</dir>
+      <dir>C:\Users\qwerty\SD-3_SakovPavel\backend</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/backend/src/main/java/by/training/nc/sd3/backend/Entities/Lesson.java" />
+        <option value="$PROJECT_DIR$/backend/src/main/java/by/training/nc/sd3/backend/Service/AccountService.java" />
+        <option value="$PROJECT_DIR$/fe-site/src/app/page-student/page-student.component.html" />
+        <option value="$PROJECT_DIR$/fe-site/src/app/model/lesson.ts" />
+        <option value="$PROJECT_DIR$/fe-site/src/app/model/Attendancy.ts" />
+        <option value="$PROJECT_DIR$/backend/src/main/java/by/training/nc/sd3/backend/Service/Impl/NewComparator.java" />
+        <option value="$PROJECT_DIR$/backend/src/main/java/by/training/nc/sd3/backend/Entities/Teacher.java" />
+        <option value="$PROJECT_DIR$/fapi/src/main/java/by/taining/nc/sd3/Fapi/services/DataTeacherService.java" />
+        <option value="$PROJECT_DIR$/backend/src/main/java/by/training/nc/sd3/backend/Service/TeacherService.java" />
+        <option value="$PROJECT_DIR$/fapi/src/main/java/by/taining/nc/sd3/Fapi/models/Student.java" />
+        <option value="$PROJECT_DIR$/fapi/src/main/java/by/taining/nc/sd3/Fapi/models/StudentModel.java" />
+        <option value="$PROJECT_DIR$/fapi/src/main/java/by/taining/nc/sd3/Fapi/services/impl/DataTeacherServiceImpl.java" />
+        <option value="$PROJECT_DIR$/fe-site/src/app/model/student.ts" />
+        <option value="$PROJECT_DIR$/fe-site/src/app/model/Student.ts" />
+        <option value="$PROJECT_DIR$/fe-site/src/app/model/attendancy.ts" />
+        <option value="$PROJECT_DIR$/fe-site/src/app/page-admin/page-admin.component.css" />
+        <option value="$PROJECT_DIR$/backend/src/main/java/by/training/nc/sd3/backend/ForbiddenException.java" />
+        <option value="$PROJECT_DIR$/fe-site/src/app/services/Logged.ts" />
+        <option value="$PROJECT_DIR$/fe-site/src/app/page-admin/page-admin.component.html" />
+        <option value="$PROJECT_DIR$/fapi/src/main/java/by/taining/nc/sd3/Fapi/models/AttendancyModel.java" />
+        <option value="$PROJECT_DIR$/fe-site/src/app/page-admin/page-admin.component.ts" />
+        <option value="$PROJECT_DIR$/backend/src/main/java/by/training/nc/sd3/backend/Repository/AttendancyRepository.java" />
+        <option value="$PROJECT_DIR$/backend/src/main/java/by/training/nc/sd3/backend/Repository/TeacherRepository.java" />
+        <option value="$PROJECT_DIR$/backend/src/main/java/by/training/nc/sd3/backend/Repository/StudentRepository.java" />
+        <option value="$PROJECT_DIR$/backend/src/main/java/by/training/nc/sd3/backend/Repository/LessonRepository.java" />
+        <option value="$PROJECT_DIR$/backend/src/main/java/by/training/nc/sd3/backend/Entities/Attendancy.java" />
+        <option value="$PROJECT_DIR$/backend/src/main/java/by/training/nc/sd3/backend/Entities/Student.java" />
+        <option value="$PROJECT_DIR$/backend/src/main/java/by/training/nc/sd3/backend/Service/Impl/AccountServiceImpl.java" />
+        <option value="$PROJECT_DIR$/backend/src/main/java/by/training/nc/sd3/backend/Service/Impl/TeacherServiceImpl.java" />
+        <option value="$PROJECT_DIR$/fapi/src/main/java/by/taining/nc/sd3/Fapi/services/impl/DataStudentServiceImpl.java" />
+        <option value="$PROJECT_DIR$/fapi/src/main/java/by/taining/nc/sd3/Fapi/services/DataStudentService.java" />
+        <option value="$PROJECT_DIR$/backend/src/main/java/by/training/nc/sd3/backend/Service/Impl/LessonServiceImpl.java" />
+        <option value="$PROJECT_DIR$/backend/src/main/java/by/training/nc/sd3/backend/Controller/TeacherController.java" />
+        <option value="$PROJECT_DIR$/fapi/src/main/java/by/taining/nc/sd3/Fapi/controller/TeacherController.java" />
+        <option value="$PROJECT_DIR$/fapi/src/main/java/by/taining/nc/sd3/Fapi/controller/StudentController.java" />
+        <option value="$PROJECT_DIR$/fapi/src/main/java/by/taining/nc/sd3/Fapi/controller/LessonController.java" />
+        <option value="$PROJECT_DIR$/backend/src/main/java/by/training/nc/sd3/backend/Controller/LessonController.java" />
+        <option value="$PROJECT_DIR$/backend/src/main/java/by/training/nc/sd3/backend/Controller/Controller.java" />
+        <option value="$PROJECT_DIR$/fe-site/src/index.html" />
+        <option value="$PROJECT_DIR$/fe-site/src/app/app.component.html" />
+        <option value="$PROJECT_DIR$/fapi/src/main/java/by/taining/nc/sd3/Fapi/FapiApplication.java" />
+        <option value="$PROJECT_DIR$/fe-site/src/app/services/filter.pipe.ts" />
+        <option value="$PROJECT_DIR$/fe-site/src/app/app.module.ts" />
+        <option value="$PROJECT_DIR$/fe-site/src/app/app.component.ts" />
+        <option value="$PROJECT_DIR$/fe-site/src/app/services/http.service.ts" />
+        <option value="$PROJECT_DIR$/ui/css/bootstrap.css" />
+        <option value="$PROJECT_DIR$/fe-site/src/app/page/page.component.css" />
+        <option value="$PROJECT_DIR$/fe-site/src/app/page/page.component.html" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/fe-site/src/app/page/page.component.ts" />
+        <option value="$PROJECT_DIR$/fapi/src/main/java/by/taining/nc/sd3/Fapi/controller/Task1.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="alwaysUpdateSnapshots" value="true" />
+        <option name="pluginUpdatePolicy" value="UPDATE" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="backend" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="backend" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="Fapi" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="Fapi" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="SD-3_SakovPavel" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/fe-site/node_modules" />
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/fe-site/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="950" />
+    <option name="width" value="975" />
+    <option name="height" value="1050" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+          <State>
+            <id>HTML</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>HtmlUnknownTarget</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="SD-3_SakovPavel" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SD-3_SakovPavel" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SD-3_SakovPavel" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SD-3_SakovPavel" type="462c0819:PsiDirectoryNode" />
+              <item name="fapi" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SD-3_SakovPavel" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SD-3_SakovPavel" type="462c0819:PsiDirectoryNode" />
+              <item name="fapi" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SD-3_SakovPavel" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SD-3_SakovPavel" type="462c0819:PsiDirectoryNode" />
+              <item name="fapi" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SD-3_SakovPavel" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SD-3_SakovPavel" type="462c0819:PsiDirectoryNode" />
+              <item name="fapi" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SD-3_SakovPavel" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SD-3_SakovPavel" type="462c0819:PsiDirectoryNode" />
+              <item name="fapi" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="Fapi" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SD-3_SakovPavel" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SD-3_SakovPavel" type="462c0819:PsiDirectoryNode" />
+              <item name="fapi" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="Fapi" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SD-3_SakovPavel" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SD-3_SakovPavel" type="462c0819:PsiDirectoryNode" />
+              <item name="fapi" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SD-3_SakovPavel" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SD-3_SakovPavel" type="462c0819:PsiDirectoryNode" />
+              <item name="fe-site" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SD-3_SakovPavel" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SD-3_SakovPavel" type="462c0819:PsiDirectoryNode" />
+              <item name="fe-site" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SD-3_SakovPavel" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SD-3_SakovPavel" type="462c0819:PsiDirectoryNode" />
+              <item name="fe-site" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SD-3_SakovPavel" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SD-3_SakovPavel" type="462c0819:PsiDirectoryNode" />
+              <item name="fe-site" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="page" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SD-3_SakovPavel" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SD-3_SakovPavel" type="462c0819:PsiDirectoryNode" />
+              <item name="fe-site" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="services" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549632125125" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.stylelint" value="true" />
+    <property name="node.js.path.for.package.stylelint" value="project" />
+    <property name="node.js.selected.package.stylelint" value="" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+    <property name="ts.external.directory.path" value="G:\SD-3_SakovPavel\fe-site\node_modules\typescript\lib" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="by.taining.nc.sd3.Fapi.models" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\qwerty\SD-3_SakovPavel\backend" />
+      <recent name="C:\Users\qwerty\SD-3_SakovPavel\backend\src\main\java\by\training\nc\sd3\backend\Entities" />
+      <recent name="C:\Users\qwerty\SD-3_SakovPavel\backend\src\main\java\by\training\nc\sd3\backend" />
+      <recent name="C:\Users\qwerty\SD-3_SakovPavel\fe-site\src\app\services" />
+      <recent name="C:\Users\qwerty\SD-3_SakovPavel\fe-site\src\app" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.FapiApplication">
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All Features in: SD-3_SakovPavel" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="3" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="SD-3_SakovPavel" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm3SMFormatter" />
+      <option name="SUGGESTED_NAME" value="All Features in: SD-3_SakovPavel" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All Features in: backend" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="3" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/backend" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="SD-3_SakovPavel" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm3SMFormatter" />
+      <option name="SUGGESTED_NAME" value="All Features in: backend" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All Features in: fapi" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="3" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/fapi" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="fapi" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm3SMFormatter" />
+      <option name="SUGGESTED_NAME" value="All Features in: fapi" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All Features in: fe" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="3" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/fe" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="SD-3_SakovPavel" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm3SMFormatter" />
+      <option name="SUGGESTED_NAME" value="All Features in: fe" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="VM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="signup-form.component.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/SD-3_SakovPavel/fe/src/app/signup/signup-form.component.html">
+      <method v="2" />
+    </configuration>
+    <configuration name="BackendApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="backend" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="by.training.nc.sd3.backend.BackendApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FapiApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="fapi" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="by.taining.nc.sd3.Fapi.FapiApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="VM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.FapiApplication" />
+      <item itemvalue="Spring Boot.BackendApplication" />
+      <item itemvalue="Cucumber java.All Features in: fe" />
+      <item itemvalue="JavaScript Debug.signup-form.component.html" />
+      <item itemvalue="Cucumber java.All Features in: fapi" />
+      <item itemvalue="Cucumber java.All Features in: backend" />
+      <item itemvalue="Cucumber java.All Features in: SD-3_SakovPavel" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Cucumber java.All Features in: SD-3_SakovPavel" />
+        <item itemvalue="Cucumber java.All Features in: backend" />
+        <item itemvalue="Cucumber java.All Features in: fapi" />
+        <item itemvalue="JavaScript Debug.signup-form.component.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d9c99b0a-6100-4068-ad1b-9ed46abfc9b9" name="Default" comment="" />
+      <created>1540294619822</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1540294619822</updated>
+      <workItem from="1540466264885" duration="5797000" />
+      <workItem from="1540493039054" duration="1294000" />
+      <workItem from="1540494405726" duration="6483000" />
+      <workItem from="1540537393312" duration="9103000" />
+      <workItem from="1540574851261" duration="3000" />
+      <workItem from="1540726276110" duration="13799000" />
+      <workItem from="1540928173362" duration="4744000" />
+      <workItem from="1540973465199" duration="4122000" />
+      <workItem from="1541107817120" duration="3311000" />
+      <workItem from="1541148543094" duration="3406000" />
+      <workItem from="1541156355708" duration="1395000" />
+      <workItem from="1541423798131" duration="10053000" />
+      <workItem from="1541492203778" duration="7826000" />
+      <workItem from="1541688114070" duration="12479000" />
+      <workItem from="1541752316664" duration="4357000" />
+      <workItem from="1541759630280" duration="1562000" />
+      <workItem from="1541761206530" duration="589000" />
+      <workItem from="1542026644957" duration="6628000" />
+      <workItem from="1542039262276" duration="884000" />
+      <workItem from="1542302388471" duration="5267000" />
+      <workItem from="1542352333656" duration="6155000" />
+      <workItem from="1542390671273" duration="425000" />
+      <workItem from="1542644620906" duration="3394000" />
+      <workItem from="1542701495128" duration="312000" />
+      <workItem from="1542722028587" duration="13271000" />
+      <workItem from="1542787774446" duration="5412000" />
+      <workItem from="1542895924216" duration="5469000" />
+      <workItem from="1543079859164" duration="11606000" />
+      <workItem from="1543235827391" duration="15923000" />
+      <workItem from="1543351886019" duration="4294000" />
+      <workItem from="1543395970470" duration="3395000" />
+      <workItem from="1543526579572" duration="7393000" />
+      <workItem from="1543565333740" duration="3268000" />
+      <workItem from="1543569144072" duration="468000" />
+      <workItem from="1543569636942" duration="1786000" />
+      <workItem from="1543697618146" duration="9296000" />
+      <workItem from="1543746318459" duration="20000" />
+      <workItem from="1543746424443" duration="598000" />
+      <workItem from="1543755890229" duration="4795000" />
+      <workItem from="1543787971599" duration="3307000" />
+      <workItem from="1543841880405" duration="14557000" />
+      <workItem from="1543937485530" duration="7061000" />
+      <workItem from="1543997711047" duration="7407000" />
+      <workItem from="1544011266616" duration="15501000" />
+      <workItem from="1544048157833" duration="5064000" />
+      <workItem from="1544106438243" duration="1342000" />
+      <workItem from="1544111862217" duration="348000" />
+      <workItem from="1544166445850" duration="9432000" />
+      <workItem from="1544179076919" duration="4408000" />
+      <workItem from="1544254160056" duration="1704000" />
+      <workItem from="1544258780816" duration="10902000" />
+      <workItem from="1544351103338" duration="1327000" />
+      <workItem from="1544355999305" duration="12261000" />
+      <workItem from="1544445285901" duration="15000" />
+      <workItem from="1544458735176" duration="3324000" />
+      <workItem from="1544710793664" duration="2790000" />
+      <workItem from="1544733289637" duration="8827000" />
+      <workItem from="1544771383913" duration="3210000" />
+      <workItem from="1544792192753" duration="1809000" />
+      <workItem from="1545056570925" duration="1399000" />
+      <workItem from="1545071981789" duration="6363000" />
+      <workItem from="1545126289723" duration="1371000" />
+      <workItem from="1545132593009" duration="8696000" />
+      <workItem from="1545157467177" duration="1022000" />
+      <workItem from="1545209834513" duration="1977000" />
+      <workItem from="1545220894691" duration="1259000" />
+      <workItem from="1547240382859" duration="1117000" />
+      <workItem from="1549471611738" duration="16546000" />
+      <workItem from="1549488615385" duration="6026000" />
+      <workItem from="1549542650789" duration="239000" />
+      <workItem from="1549550342551" duration="278000" />
+      <workItem from="1549551846050" duration="2114000" />
+      <workItem from="1549554803808" duration="1191000" />
+      <workItem from="1549567232681" duration="27314000" />
+      <workItem from="1549622676510" duration="5943000" />
+      <workItem from="1549632056580" duration="281000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="All_Features_in__fe - 2018.10.25 at 16h 43m 23s.xml">
+      <configuration name="All Features in: fe" configurationId="CucumberJavaRunConfigurationType" />
+    </history-entry>
+    <history-entry file="All_Features_in__fapi - 2018.11.02 at 12h 23m 00s.xml">
+      <configuration name="All Features in: fapi" configurationId="CucumberJavaRunConfigurationType" />
+    </history-entry>
+    <history-entry file="All_Features_in__fapi - 2018.11.02 at 12h 24m 51s.xml">
+      <configuration name="All Features in: fapi" configurationId="CucumberJavaRunConfigurationType" />
+    </history-entry>
+    <history-entry file="All_Features_in__backend - 2018.11.09 at 13h 58m 31s.xml">
+      <configuration name="All Features in: backend" configurationId="CucumberJavaRunConfigurationType" />
+    </history-entry>
+    <history-entry file="All_Features_in__SD-3_SakovPavel - 2018.11.20 at 17h 00m 35s.xml">
+      <configuration name="All Features in: SD-3_SakovPavel" configurationId="CucumberJavaRunConfigurationType" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="398114000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.8794326" visible="true" weight="0.18724832" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Web" order="7" sideWeight="0.120567374" side_tool="true" weight="0.18456376" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3275488" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49597314" weight="0.2851064" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3991323" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3275488" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="TypeScript" order="8" sideWeight="0.4978678" weight="0.24680851" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49463087" visible="true" weight="0.32624114" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50402683" side_tool="true" weight="0.21702127" />
+      <window_info anchor="bottom" id="Version Control" order="11" weight="0.3286334" />
+      <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.49946696" weight="0.31995663" />
+      <window_info anchor="bottom" id="Spring" order="13" weight="0.324295" />
+      <window_info anchor="bottom" id="Java Enterprise" order="14" weight="0.329718" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Database" order="7" weight="0.32885906" />
+      <window_info anchor="right" id="Bean Validation" order="8" weight="0.19001387" />
+      <window_info anchor="right" id="CDI" order="9" />
+      <window_info anchor="right" id="Maven Projects" order="10" weight="0.2872483" />
+      <window_info anchor="right" id="Coverage" order="11" side_tool="true" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.88102895" weight="0.18456376" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Web" order="7" sideWeight="0.118971065" side_tool="true" weight="0.20202559" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3275488" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49597314" visible="true" weight="0.2851064" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3991323" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3275488" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="TypeScript" order="8" sideWeight="0.4978678" weight="0.24680851" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49463087" weight="0.32624114" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50402683" side_tool="true" weight="0.21702127" />
+      <window_info anchor="bottom" id="Version Control" order="11" weight="0.3286334" />
+      <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.49946696" weight="0.31995663" />
+      <window_info anchor="bottom" id="Spring" order="13" weight="0.324295" />
+      <window_info anchor="bottom" id="Java Enterprise" order="14" weight="0.329718" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Database" order="7" weight="0.32885906" />
+      <window_info anchor="right" id="Bean Validation" order="8" weight="0.19001387" />
+      <window_info anchor="right" id="CDI" order="9" />
+      <window_info anchor="right" id="Maven Projects" order="10" weight="0.2872483" />
+      <window_info anchor="right" id="Coverage" order="11" side_tool="true" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/fapi/src/main/java/by/taining/nc/sd3/Fapi/controller/Task1.java</url>
+          <line>164</line>
+          <properties />
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/fapi/src/main/java/by/taining/nc/sd3/Fapi/controller/Task1.java</url>
+          <line>168</line>
+          <properties />
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/fapi/src/main/java/by/taining/nc/sd3/Fapi/controller/Task1.java</url>
+          <line>151</line>
+          <properties />
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/fapi/src/main/java/by/taining/nc/sd3/Fapi/controller/Task1.java</url>
+          <line>92</line>
+          <properties />
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/fapi/src/main/java/by/taining/nc/sd3/Fapi/controller/Task1.java</url>
+          <line>73</line>
+          <properties class="by.taining.nc.sd3.Fapi.controller.Task1" method="knapsack">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="SpringBootApplicationConfigurationType">
+        <watch expression="gotArray" language="JAVA" />
+        <watch expression="gotArray" />
+        <watch expression="defaultArray" language="JAVA" />
+        <watch expression="defaultArray[3]" />
+        <watch expression="arrr" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="breakpointCondition">
+      <expression>
+        <expression-string>j</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+    <expressions id="watch">
+      <expression>
+        <expression-string>defaultArray</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>gotArray</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/fapi/src/main/java/by/taining/nc/sd3/Fapi/services/DataLessonService.java" />
+    <entry file="file://$PROJECT_DIR$/fe-site/src/app/model/admin.ts" />
+    <entry file="file://$PROJECT_DIR$/fe-site/src/app/model/attendancy.ts" />
+    <entry file="file://$PROJECT_DIR$/fe-site/src/app/model/lesson.ts" />
+    <entry file="file://$PROJECT_DIR$/fe-site/src/app/model/Student.ts" />
+    <entry file="file://$PROJECT_DIR$/fe-site/src/app/model/teacher.ts" />
+    <entry file="file://$PROJECT_DIR$/backend/src/main/java/by/training/nc/sd3/backend/Service/Impl/TeacherServiceImpl.java" />
+    <entry file="file://$PROJECT_DIR$/fapi/src/main/java/by/taining/nc/sd3/Fapi/services/DataTeacherService.java" />
+    <entry file="file://$PROJECT_DIR$/fapi/src/main/java/by/taining/nc/sd3/Fapi/services/DataStudentService.java" />
+    <entry file="file://$PROJECT_DIR$/fapi/src/main/java/by/taining/nc/sd3/Fapi/controller/TeacherController.java" />
+    <entry file="file://$PROJECT_DIR$/fapi/src/main/java/by/taining/nc/sd3/Fapi/controller/StudentController.java" />
+    <entry file="file://$PROJECT_DIR$/fapi/src/main/java/by/taining/nc/sd3/Fapi/controller/LessonController.java" />
+    <entry file="file://$PROJECT_DIR$/fapi/src/main/java/by/taining/nc/sd3/Fapi/controller/AdminController.java" />
+    <entry file="file://$PROJECT_DIR$/backend/src/main/java/by/training/nc/sd3/backend/Entities/Attendancy.java" />
+    <entry file="file://$PROJECT_DIR$/backend/src/main/java/by/training/nc/sd3/backend/Controller/LessonController.java" />
+    <entry file="file://$PROJECT_DIR$/backend/src/main/java/by/training/nc/sd3/backend/Entities/Lesson.java" />
+    <entry file="file://$PROJECT_DIR$/backend/src/main/java/by/training/nc/sd3/backend/Entities/Student.java" />
+    <entry file="file://$PROJECT_DIR$/backend/src/main/java/by/training/nc/sd3/backend/Repository/LessonRepository.java" />
+    <entry file="file://$PROJECT_DIR$/fe-site/src/app/services/Logged.ts" />
+    <entry file="file://$PROJECT_DIR$/fe-site/src/app/page-admin/page-admin.component.ts" />
+    <entry file="file://$PROJECT_DIR$/backend/src/main/java/by/training/nc/sd3/backend/Controller/AdminController.java" />
+    <entry file="file://$PROJECT_DIR$/backend/src/main/java/by/training/nc/sd3/backend/Controller/Controller.java" />
+    <entry file="file://$PROJECT_DIR$/backend/src/main/java/by/training/nc/sd3/backend/Entities/Teacher.java" />
+    <entry file="file://$PROJECT_DIR$/backend/src/main/java/by/training/nc/sd3/backend/Controller/TeacherController.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/Objects.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3300">
+          <caret line="202" selection-start-line="202" selection-end-line="202" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fapi/src/main/java/by/taining/nc/sd3/Fapi/services/impl/DataTeacherServiceImpl.java" />
+    <entry file="file://$PROJECT_DIR$/backend/src/main/java/by/training/nc/sd3/backend/Service/Impl/LessonServiceImpl.java" />
+    <entry file="file://$PROJECT_DIR$/FacultyWatcher/README.md" />
+    <entry file="file://$PROJECT_DIR$/fe-site/src/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="4" column="12" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fapi/src/main/java/by/taining/nc/sd3/Fapi/FapiApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="10" column="59" selection-start-line="10" selection-start-column="59" selection-end-line="10" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fapi/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fe-site/src/app/app.component.spec.ts">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ui/css/bootstrap.min.css" />
+    <entry file="file://$PROJECT_DIR$/fe-site/node_modules/bootstrap/dist/css/bootstrap.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="5" column="22449" selection-start-line="5" selection-start-column="22449" selection-end-line="5" selection-end-column="22449" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fe-site/src/app/page/page.component.spec.ts">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ui/css/bootstrap.css" />
+    <entry file="file://$PROJECT_DIR$/fe-site/src/app/app.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fe-site/src/app/app.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="10" column="44" selection-start-line="10" selection-start-column="44" selection-end-line="10" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.1.2.RELEASE/spring-web-5.1.2.RELEASE-sources.jar!/org/springframework/web/method/support/InvocableHandlerMethod.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3780">
+          <caret line="223" selection-start-line="223" selection-end-line="223" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/platform-impl.jar!/resources/html5-schema/html5/web-forms.rnc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-141">
+          <caret line="506" column="16" selection-start-line="506" selection-start-column="16" selection-end-line="506" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/Thread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="747" selection-start-line="747" selection-end-line="747" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fe-site/src/app/page/page.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" column="68" selection-start-line="2" selection-start-column="68" selection-end-line="2" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fe-site/src/app/page/page.component.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1080">
+          <caret line="54" selection-start-line="54" selection-end-line="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fapi/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="18" column="44" selection-start-line="18" selection-start-column="44" selection-end-line="18" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fe-site/src/app/app.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+          <folding>
+            <element signature="e#0#58#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fe-site/src/app/services/http.service.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="500">
+          <caret line="29" column="10" selection-start-line="29" selection-start-column="10" selection-end-line="29" selection-end-column="10" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fe-site/src/app/services/filter.pipe.ts">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/Arrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2040">
+          <caret line="143" selection-start-line="143" selection-end-line="143" />
+          <folding>
+            <element signature="e#5098#5099#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fe-site/src/app/page/page.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-20">
+          <caret line="67" column="1" selection-start-line="67" selection-start-column="1" selection-end-line="67" selection-end-column="1" />
+          <folding>
+            <element signature="e#0#108#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fapi/src/main/java/by/taining/nc/sd3/Fapi/controller/Task1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-567">
+          <caret line="135" column="25" selection-start-line="135" selection-start-column="25" selection-end-line="135" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>backend</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Spring-4.3.18.RELEASE</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
