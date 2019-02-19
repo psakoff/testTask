@@ -1,7 +1,7 @@
 <div class="wrapper">
 <div *ngIf="buttons != []">
       <button class="btn-primary" type="submit" (click)="calculateWeight(); checkSum().subscribe()">Рассчитать по красоте</button>
-  <div *ngIf="result != undefined">{{"You can do this with a "+result+" pounds, where " +right+" on right side and " + left + " on left side" }}</div>
+  <div *ngIf="result != undefined">{{"You can do this with a ["+result+"] pounds"}} {{", where [" +right+"] on right side and [" + left + "] on left side" }}</div>
   <div *ngIf="rest != undefined">{{"The rest are " +buttons}}</div>
 </div>
 Тут вводите просто вес одного блина<br>

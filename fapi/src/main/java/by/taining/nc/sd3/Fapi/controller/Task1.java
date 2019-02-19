@@ -170,7 +170,12 @@ public int calculateWeights(int[] array){
             System.out.println("right "+right);
             itemsRight=new ArrayList<>(items);
             //itemsRight.forEach(item ->{System.out.print(item + "/ ");});
-            if(left != right) capacity = capacity -1;
+            if(left != right) {
+                capacity = capacity -1;
+                itemsRight.removeAll(itemsRight);
+                itemsLeft.removeAll(itemsLeft);
+                array1 = getDefaultArray();
+            }
             else break;
         }
         System.out.println("**********");
