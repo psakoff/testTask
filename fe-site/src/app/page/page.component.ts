@@ -96,7 +96,9 @@ this.buttons=[];
     if (weight>0&&weight<=20) {
       let a = this.buttons.length;
       if (a == 0) this.buttons[0] = this.weight; else this.buttons[a] = weight;
-      this.result = this.arraySum(this.left)+this.arraySum(this.right);
+      if (this.arraySum(this.left)==this.arraySum(this.right)) {
+        this.result = this.arraySum(this.left) + this.arraySum(this.right);
+      }else {this.result = 0}
     }
     else alert("введите число от 1 до 20");
 
@@ -109,7 +111,9 @@ this.buttons=[];
       this.left.splice(index, 1);
       this.checkSum();
     }
-    this.result = this.arraySum(this.left)+this.arraySum(this.right);
+    if (this.arraySum(this.left)==this.arraySum(this.right)) {
+      this.result = this.arraySum(this.left) + this.arraySum(this.right);
+    }else {this.result = 0}
   }
   addButtonToMidFromRight(weight:number){
     let a = this.buttons.length;
@@ -119,7 +123,9 @@ this.buttons=[];
       this.right.splice(index, 1);
       this.checkSum();
     }
-    this.result = this.arraySum(this.left)+this.arraySum(this.right);
+    if (this.arraySum(this.left)==this.arraySum(this.right)) {
+      this.result = this.arraySum(this.left) + this.arraySum(this.right);
+    }else {this.result = 0}
   }
   addButtonToRight(weight:number){
     let a = this.right.length;
@@ -129,7 +135,9 @@ this.buttons=[];
       this.buttons.splice(index, 1);
       this.checkSum();
     }
-    this.result = this.arraySum(this.left)+this.arraySum(this.right);
+    if (this.arraySum(this.left)==this.arraySum(this.right)) {
+      this.result = this.arraySum(this.left) + this.arraySum(this.right);
+    }else {this.result = 0}
   }
   addButtonToLeft(weight:number){
 
@@ -140,7 +148,9 @@ this.buttons=[];
       this.buttons.splice(index, 1);
       this.checkSum();
     }
-    this.result = this.arraySum(this.left)+this.arraySum(this.right);
+    if (this.arraySum(this.left)==this.arraySum(this.right)) {
+      this.result = this.arraySum(this.left) + this.arraySum(this.right);
+    }else {this.result = 0}
   }
   ngOnInit() { }
 
